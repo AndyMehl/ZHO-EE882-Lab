@@ -1,0 +1,282 @@
+TEST PARAMETERS:,Ideal,High,Low,Location,Description
+Pedal at Rest Location,0,1.11,-1.11,0,Pedal-at-rest location (pedal zero) specification
+Index 1 - Full-Close (Output #1),20,20.7,19.3,0,Index 1 (Full-Close) Ideal & Tolerance in % of VRef ->Measured Statically - prior to scan
+Index 2 - Midpoint (Output #1),53,99,-99,7,Index 2 (Midpoint) Ideal & Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Index 3 - Full-Open (Output #1),90,92,88,15.1,Index 3 (Full-Open) Ideal & Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Maximum Output (Output #1),95,96,94,N/A,Maximum Output
+Single Point Linearity (Output #1 - Region #1 - Start),0,1,-1,0,Linearity Region #1 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Single Point Linearity (Output #1 - Region #1 - Stop),0,1.5,-1.5,4.3,Linearity Region #1 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Single Point Linearity (Output #1 - Region #2 - Start),0,1.5,-1.5,4.3,Linearity Region #2 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Single Point Linearity (Output #1 - Region #2 - Stop),0,2,-2,15.1,Linearity Region #2 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Single Point Linearity (Output #1 - Region #3 - Start),0,99,-99,15.1,Linearity Region #3 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Single Point Linearity (Output #1 - Region #3 - Stop),0,99,-99,15.1,Linearity Region #3 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Single Point Linearity (Output #1 - Region #4 - Start),0,99,-99,15.1,Linearity Region #4 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Single Point Linearity (Output #1 - Region #4 - Stop),0,99,-99,15.1,Linearity Region #4 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Single Point Linearity (Output #1 - Region #5 - Start),0,99,-99,15.1,Linearity Region #5 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Single Point Linearity (Output #1 - Region #5 - Stop),0,99,-99,15.1,Linearity Region #5 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Absolute Linearity (Output #1 - Region #1 - Start),0,3,-3,0,Linearity Region #1 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Absolute Linearity (Output #1 - Region #1 - Stop),0,3,-3,15.1,Linearity Region #1 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Absolute Linearity (Output #1 - Region #2 - Start),0,99,-99,15.1,Linearity Region #2 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Absolute Linearity (Output #1 - Region #2 - Stop),0,99,-99,15.1,Linearity Region #2 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Absolute Linearity (Output #1 - Region #3 - Start),0,99,-99,15.1,Linearity Region #3 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Absolute Linearity (Output #1 - Region #3 - Stop),0,99,-99,15.1,Linearity Region #3 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Absolute Linearity (Output #1 - Region #4 - Start),0,99,-99,15.1,Linearity Region #4 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Absolute Linearity (Output #1 - Region #4 - Stop),0,99,-99,15.1,Linearity Region #4 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Absolute Linearity (Output #1 - Region #5 - Start),0,99,-99,15.1,Linearity Region #5 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Absolute Linearity (Output #1 - Region #5 - Stop),4.6358,99,-99,15.1,Linearity Region #5 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Slope (Output #1 - Start),2.3411,1.4,0.6,0.3,Ideal Slope - Slope Tolerance as a Ratio of the Ideal Slope - Location in ° from pedal-at-rest location
+Slope (Output #1 - Stop),4.6823,1.4,0.6,15.1,Ideal Slope - Slope Tolerance as a Ratio of the Ideal Slope - Location in ° from pedal-at-rest location
+Full-Close Hysteresis (Output #1),0,0.2,-0.2,0,Full-Close Hysteresis Ideal & Tolerance in % of VRef ->Measured Statically - prior to scan and after scan
+MLX Idle Current (Output #1),6,999,-999,N/A,MLX Idle Current (mA)
+MLX WOT Current (Output #1),N/A,1,-1,N/A,MLX WOT Current (mA)
+Evaluate Start (Output #1),N/A,N/A,N/A,0,Evaluation Region Start (Start Point for Graphs)
+Evaluate Stop (Output #1),N/A,N/A,N/A,18.3,Evaluation Region Stop (Stop Point for Graphs)
+Index 1 - Full-Close (Output #2),10,10.7,9.3,0,Index 1 (Full-Close) Ideal & Tolerance in % of VRef ->Measured Statically - prior to scan
+Index 2 - Midpoint (Output #2),26.5,99,-99,7,Index 2 (Midpoint) Ideal & Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Index 3 - Full-Open (Output #2),45,47,43,15.1,Index 3 (Full-Open) Ideal & Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Maximum Output (Output #2),47,49,46,N/A,Maximum Output
+Single Point Linearity (Output #2 - Region #1 - Start),0,1,-1,0,Linearity Region #1 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Single Point Linearity (Output #2 - Region #1 - Stop),0,1.5,-1.5,4.3,Linearity Region #1 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Single Point Linearity (Output #2 - Region #2 - Start),0,1.5,-1.5,4.3,Linearity Region #2 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Single Point Linearity (Output #2 - Region #2 - Stop),0,2,-2,15.1,Linearity Region #2 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Single Point Linearity (Output #2 - Region #3 - Start),0,99,-99,15.1,Linearity Region #3 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Single Point Linearity (Output #2 - Region #3 - Stop),0,99,-99,15.1,Linearity Region #3 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Single Point Linearity (Output #2 - Region #4 - Start),0,99,-99,15.1,Linearity Region #4 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Single Point Linearity (Output #2 - Region #4 - Stop),0,99,-99,15.1,Linearity Region #4 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Single Point Linearity (Output #2 - Region #5 - Start),0,99,-99,15.1,Linearity Region #5 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Single Point Linearity (Output #2 - Region #5 - Stop),0,99,-99,15.1,Linearity Region #5 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Absolute Linearity (Output #2 - Region #1 - Start),0,3,-3,0,Linearity Region #1 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Absolute Linearity (Output #2 - Region #1 - Stop),0,3,-3,15.1,Linearity Region #1 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Absolute Linearity (Output #2 - Region #2 - Start),0,99,-99,15.1,Linearity Region #2 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Absolute Linearity (Output #2 - Region #2 - Stop),0,99,-99,15.1,Linearity Region #2 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Absolute Linearity (Output #2 - Region #3 - Start),0,99,-99,15.1,Linearity Region #3 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Absolute Linearity (Output #2 - Region #3 - Stop),0,99,-99,15.1,Linearity Region #3 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Absolute Linearity (Output #2 - Region #4 - Start),0,99,-99,15.1,Linearity Region #4 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Absolute Linearity (Output #2 - Region #4 - Stop),0,99,-99,15.1,Linearity Region #4 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Absolute Linearity (Output #2 - Region #5 - Start),0,99,-99,15.1,Linearity Region #5 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Absolute Linearity (Output #2 - Region #5 - Stop),2.3179,99,-99,15.1,Linearity Region #5 Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Slope (Output #2 - Start),1.1706,1.4,0.6,0.3,Ideal Slope - Slope Tolerance as a Ratio of the Ideal Slope - Location in ° from pedal-at-rest location
+Slope (Output #2 - Stop),2.3411,1.4,0.6,15.1,Ideal Slope - Slope Tolerance as a Ratio of the Ideal Slope - Location in ° from pedal-at-rest location
+Full-Close Hysteresis (Output #2),0,0.2,-0.2,0,Full-Close Hysteresis Ideal & Tolerance in % of VRef ->Measured Statically - prior to scan and after scan
+MLX Idle Current (Output #2),6,999,-999,N/A,MLX Idle Current (mA)
+MLX WOT Current (Output #2),N/A,1,-1,N/A,MLX WOT Current (mA)
+Evaluate Start (Output #2),N/A,N/A,N/A,0,Evaluation Region Start (Start Point for Graphs)
+Evaluate Stop (Output #2),N/A,N/A,N/A,18.3,Evaluation Region Stop (Stop Point for Graphs)
+Forward Output Correlation (Region #1 - Start),2,0.5,-0.5,0,Output Correlation Region #1 - Ideal Ratio of Output #2 to Output #1 - Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Forward Output Correlation (Region #1 - Stop),2,0.7,-0.7,2.3,Output Correlation Region #1 - Ideal Ratio of Output #2 to Output #1 - Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Forward Output Correlation (Region #2 - Start),2,0.7,-0.7,2.3,Output Correlation Region #2 - Ideal Ratio of Output #2 to Output #1 - Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Forward Output Correlation (Region #2 - Stop),2,1,-1,3.1,Output Correlation Region #2 - Ideal Ratio of Output #2 to Output #1 - Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Forward Output Correlation (Region #3 - Start),2,1,-1,3.1,Output Correlation Region #3 - Ideal Ratio of Output #2 to Output #1 - Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Forward Output Correlation (Region #3 - Stop),2,1.5,-1.5,15.1,Output Correlation Region #3 - Ideal Ratio of Output #2 to Output #1 - Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Forward Output Correlation (Region #4 - Start),2,1.5,-1.5,15.1,Output Correlation Region #4 - Ideal Ratio of Output #2 to Output #1 - Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Forward Output Correlation (Region #4 - Stop),2,1.5,-1.5,18.3,Output Correlation Region #4 - Ideal Ratio of Output #2 to Output #1 - Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Forward Output Correlation (Region #5 - Start),2,1.5,-1.5,18.3,Output Correlation Region #5 - Ideal Ratio of Output #2 to Output #1 - Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Forward Output Correlation (Region #5 - Stop),2,1.5,-1.5,18.3,Output Correlation Region #5 - Ideal Ratio of Output #2 to Output #1 - Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Reverse Output Correlation (Region #1 - Start),2,0.5,-0.5,0,Output Correlation Region #1 - Ideal Ratio of Output #2 to Output #1 - Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Reverse Output Correlation (Region #1 - Stop),2,0.7,-0.7,2.3,Output Correlation Region #1 - Ideal Ratio of Output #2 to Output #1 - Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Reverse Output Correlation (Region #2 - Start),2,0.7,-0.7,2.3,Output Correlation Region #2 - Ideal Ratio of Output #2 to Output #1 - Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Reverse Output Correlation (Region #2 - Stop),2,1,-1,3.1,Output Correlation Region #2 - Ideal Ratio of Output #2 to Output #1 - Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Reverse Output Correlation (Region #3 - Start),2,1,-1,3.1,Output Correlation Region #3 - Ideal Ratio of Output #2 to Output #1 - Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Reverse Output Correlation (Region #3 - Stop),2,1.5,-1.5,15.1,Output Correlation Region #3 - Ideal Ratio of Output #2 to Output #1 - Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Reverse Output Correlation (Region #4 - Start),2,1.5,-1.5,15.1,Output Correlation Region #4 - Ideal Ratio of Output #2 to Output #1 - Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Reverse Output Correlation (Region #4 - Stop),2,1.5,-1.5,18.3,Output Correlation Region #4 - Ideal Ratio of Output #2 to Output #1 - Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Reverse Output Correlation (Region #4 - Stop),2,1.5,-1.5,18.3,Output Correlation Region #5 - Ideal Ratio of Output #2 to Output #1 - Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Reverse Output Correlation (Region #5 - Stop),2,1.5,-1.5,18.3,Output Correlation Region #5 - Ideal Ratio of Output #2 to Output #1 - Tolerance in % of VRef - Location in ° from pedal-at-rest location
+Forward Force Point #1,20.39,25.48,17.33,1,Force Specification in N - location in °
+Forward Force Point #2,25,99,-99,7,Force Specification in N - location in °
+Forward Force Point #3,36.49,45.61,29.19,15.1,Force Specification in N - location in °
+Reverse Force Point #1,10.66,14.39,6.93,1,Force Specification in N - location in °
+Reverse Force Point #2,14,99,-99,7,Force Specification in N - location in °
+Reverse Force Point #3,21.89,28.46,15.32,15.1,Force Specification in N - location in °
+Peak Force,,75,0,,Peak Force Specification in N
+Mechanical Hysteresis Point #1,45,99,-99,1,Mechanical Hysteresis Specification in % of Forward Scan Force - location in °
+Mechanical Hysteresis Point #2,45,99,-99,7,Mechanical Hysteresis Specification in % of Forward Scan Force - location in °
+Mechanical Hysteresis Point #3,45,99,-99,15.1,Mechanical Hysteresis Specification in % of Forward Scan Force - location in °
+STATS: Index 1 - Full-Close Output (Output #1) ,N/A,20.7,19.3,N/A,Full-Close Tolerance in % of VRef for Cp & Cpk Calculations
+STATS: Index 2 - Midpoint Output (Output #1) ,N/A,99,-99,N/A,Midpoint Tolerance in % of VRef for Cp & Cpk Calculations
+STATS: Index 3 - Full-Open Location (Output #1) ,N/A,92,88,N/A,Full-Open Tolerance in % of VRef for Cp & Cpk Calculations
+STATS: Index 1 - Full-Close Output (Output #2) ,N/A,10.7,9.3,N/A,Full-Close Tolerance in % of VRef for Cp & Cpk Calculations
+STATS: Index 2 - Midpoint Output (Output #2) ,N/A,99,-99,N/A,Midpoint Tolerance in % of VRef for Cp & Cpk Calculations
+STATS: Index 3 - Full-Open Location (Output #2) ,N/A,47,43,N/A,Full-Open Tolerance in % of VRef for Cp & Cpk Calculations
+STATS: Forward Force Point #1,N/A,25.48,17.33,N/A,Force Point Tolerance in N for Cp & Cpk Calculations
+STATS: Forward Force Point #2,N/A,99,-99,N/A,Force Point Tolerance in N for Cp & Cpk Calculations
+STATS: Forward Force Point #3,N/A,45.61,29.19,N/A,Force Point Tolerance in N for Cp & Cpk Calculations
+STATS: Reverse Force Point #1,N/A,14.39,6.93,N/A,Force Point Tolerance in N for Cp & Cpk Calculations
+STATS: Reverse Force Point #2,N/A,99,-99,N/A,Force Point Tolerance in N for Cp & Cpk Calculations
+STATS: Reverse Force Point #3,N/A,28.46,15.32,N/A,Force Point Tolerance in N for Cp & Cpk Calculations
+STATS: Mechanical Hysteresis Point #1,N/A,99,-99,N/A,Mechanical Hysteresis Point Tolerance in % of Forward Scan Force for Cp & Cpk Calculations
+STATS: Mechanical Hysteresis Point #2,N/A,99,-99,N/A,Mechanical Hysteresis Point Tolerance in % of Forward Scan Force for Cp & Cpk Calculations
+STATS: Mechanical Hysteresis Point #3,N/A,99,-99,N/A,Mechanical Hysteresis Point Tolerance in % of Forward Scan Force for Cp & Cpk Calculations
+PTC-04 PARAMETERS:,Value,,,,
+TimePuls (PTC-04 #1),70,,,,"Melexis Communication Time Stream Setting, uSec (Programmer #1)"
+Tpor (PTC-04 #1),7000,,,,"Melexis Communication Time Stream Setting, uSec (Programmer #1)"
+Tprog (PTC-04 #1),4200,,,,"Melexis Communication Time Stream Setting, uSec (Programmer #1)"
+Thold (PTC-04 #1),1,,,,"Melexis Communication Time Stream Setting, uSec (Programmer #1)"
+Tsynchro (PTC-04 #1),4200,,,,"Melexis Communication Time Stream Setting, uSec (Programmer #1)"
+TpulsMin (PTC-04 #1),7000,,,,"Melexis Communication Time Stream Setting, uSec (Programmer #1)"
+TpulsMax (PTC-04 #1),16000,,,,"Melexis Communication Time Stream Setting, uSec (Programmer #1)"
+SynchroDelay (PTC-04 #1),200,,,,"Melexis Communication Time Stream Setting, uSec (Programmer #1)"
+ByteData (PTC-04 #1),200,,,,"Melexis Communication Time Stream Setting, uSec (Programmer #1)"
+TSentTick (PTC-04 #1),3,,,,"Melexis Communication Time Stream Setting, uSec (Programmer #1)"
+BaudRate (PTC-04 #1),2400,,,,"Melexis Communication Time Stream Setting, uSec (Programmer #1)"
+BaudRateSyncID (PTC-04 #1),0,,,,"Melexis Communication Time Stream Setting, uSec (Programmer #1)"
+VDDLow (PTC-04 #1),0,,,,"Melexis Communication Time Stream Setting, uSec (Programmer #1)"
+VDDNorm (PTC-04 #1),5,,,,"Melexis Communication Time Stream Setting, uSec (Programmer #1)"
+VDDComm (PTC-04 #1),8,,,,"Melexis Communication Time Stream Setting, uSec (Programmer #1)"
+VBatLow (PTC-04 #1),0,,,,"Melexis Communication Time Stream Setting, uSec (Programmer #1)"
+VBatNorm (PTC-04 #1),6,,,,"Melexis Communication Time Stream Setting, uSec (Programmer #1)"
+TimePuls (PTC-04 #2),70,,,,"Melexis Communication Time Stream Setting, uSec (Programmer #2)"
+Tpor (PTC-04 #2),7000,,,,"Melexis Communication Time Stream Setting, uSec (Programmer #2)"
+Tprog (PTC-04 #2),4200,,,,"Melexis Communication Time Stream Setting, uSec (Programmer #2)"
+Thold (PTC-04 #2),1,,,,"Melexis Communication Time Stream Setting, uSec (Programmer #2)"
+Tsynchro (PTC-04 #2),4200,,,,"Melexis Communication Time Stream Setting, uSec (Programmer #2)"
+TpulsMin (PTC-04 #2),7000,,,,"Melexis Communication Time Stream Setting, uSec (Programmer #2)"
+TpulsMax (PTC-04 #2),16000,,,,"Melexis Communication Time Stream Setting, uSec (Programmer #2)"
+SynchroDelay (PTC-04 #2),200,,,,"Melexis Communication Time Stream Setting, uSec (Programmer #2)"
+ByteData (PTC-04 #2),200,,,,"Melexis Communication Time Stream Setting, uSec (Programmer #2)"
+TSentTick (PTC-04 #2),3,,,,"Melexis Communication Time Stream Setting, uSec (Programmer #2)"
+BaudRate (PTC-04 #2),2400,,,,"Melexis Communication Time Stream Setting, uSec (Programmer #2)"
+BaudRateSyncID (PTC-04 #2),0,,,,"Melexis Communication Time Stream Setting, uSec (Programmer #2)"
+VDDLow (PTC-04 #2),0,,,,"Melexis Communication Time Stream Setting, uSec (Programmer #2)"
+VDDNorm (PTC-04 #2),5,,,,"Melexis Communication Time Stream Setting, uSec (Programmer #2)"
+VDDComm (PTC-04 #2),8,,,,"Melexis Communication Time Stream Setting, uSec (Programmer #2)"
+VBatLow (PTC-04 #2),0,,,,"Melexis Communication Time Stream Setting, uSec (Programmer #2)"
+VBatNorm (PTC-04 #2),6,,,,"Melexis Communication Time Stream Setting, uSec (Programmer #2)"
+MLX 90277 Revision Level,FA,,,,Melexis 90277 IC Revision Level
+SOLVER PARAMETERS,Value,,,,
+Solver Index 1 Ideal Value (Output #1),19.7,,,,Ideal Output at Index Location 1 in % of Applied V (Output #1)
+Solver Index 1 Ideal Location (Output #1),0,,,,Ideal Location of Index 1 in ° from pedal zero (Output #1)
+Solver Index 1 Target Tolerance (Output #1),0.2,,,,Index 1 Output Target Tolerance in % of Applied (Output #1)
+Solver Index 1 Pass/Fail Tolerance (Output #1),0.3,,,,Index 1 Output Pass/Fail Tolerance in % of Applied (Output #1)
+Solver Index 2 Ideal Value (Output #1),90.38,,,,Ideal Output at Index Location 2 in % of Applied V (Output #1)
+Solver Index 2 Ideal Location (Output #1),15.1,,,,Ideal Location of Index 2 in ° from pedal zero (Output #1)
+Solver Index 2 Target Tolerance (Output #1),0.5,,,,Index 2 Output Target Tolerance in % of Applied (Output #1)
+Solver Index 2 Pass/Fail Tolerance (Output #1),0.75,,,,Index 2 Output Pass/Fail Tolerance in % of Applied (Output #1)
+Solver Filter Setting (Output #1),15,,,,"MLX Filter Setting, 0-15"
+Solver Invert Slope Setting (Output #1),0,,,,"MLX Invert Slope Setting, 0 or 1"
+Solver Mode Setting (Output #1),3,,,,"Mode Setting, 0-3"
+Solver FaultLevel Setting (Output #1),0,,,,"FaultLevel Setting, 0 or 1"
+Solver Maximum Offset Drift Setting (Output #1),14,,,,Maximum Allowable Offset Drift Setting in MLX IC
+Solver AGND Setting (Output #1),,450,390,,AGND Setting Range in MLX IC
+Solver Oscillator Adjust Setting (Output #1),7,,,,Correct Oscillator Adjust Setting in MLX IC
+Solver Capacitor Frequency Adjust Setting (Output #1),1,,,,Correct Capacitor Frequency Adjust Setting in MLX IC
+Solver DAC Frequency Adjust Setting (Output #1),0,,,,Correct DAC Frequency Adjust Setting in MLX IC
+Solver Slow Setting (Output #1),0,,,,Correct Slow Setting in MLX IC
+Solver Initial Offset (Output #1),705,,,,Initial Solver Setting for Offset Integer Value (0-1023) (Output #1)
+Higher Rough Gain Higher Fine Gain (Output #1),450,,,,Higher Rough Gain Higher Fine Gain (Output #1)
+Higher Rough Gain Lower Fine Gain (Output #1),0,,,,Higher Rough Gain Lower Fine Gain (Output #1)
+Lower Rough Gain Higher Fine Gain (Output #1),900,,,,Lower Rough Gain Higher Fine Gain (Output #1)
+Lower Rough Gain Lower Fine Gain (Output #1),768,,,,Lower Rough Gain Lower Fine Gain (Output #1)
+Solver RG Min (Output #1),13,,,,Minimum Allowable Rough Gain Integer Value (0-15) (Output #1)
+Solver RG Max (Output #1),14,,,,Maximum Allowable Rough Gain Integer Value (0-15) (Output #1)
+Solver Offset Step (Output #1),-0.1028,,,,Known Melexis Offset Step (%/count) (Output #1)
+Solver Programming Test Ratio 1 (Output #1),1.005,,,,Programming Test Ratio 1: Ratio of First Solver Test Gain to the Calculated Gain (Output #1)
+Solver Programming Test Ratio 2 (Output #1),1,,,,Programming Test Ratio 2: Ratio of Second Solver Test Gain to the Calculated Gain (Output #1)
+Solver Programming Test Ratio 3 (Output #1),0.995,,,,Programming Test Ratio 3: Ratio of Third Solver Test Gain to the Calculated Gain (Output #1)
+Solver Clamp Low Ideal (Output #1),18.3,,,,Low Clamp Ideal % of Applied V (Output #1)
+Solver Clamp Low Target Tolerance (Output #1),0.25,,,,Low Clamp Target Tolerance % of Applied V (Output #1)
+Solver Clamp Low Pass/Fail Tolerance (Output #1),0.4,,,,Low Clamp Pass/Fail Tolerance % of Applied V (Output #1)
+Solver Clamp Low Initial Guess (Output #1),180,,,,Initial Solver Setting for Clamp Low Integer Value (0-1023) (Output #1)
+Solver Clamp High (Output #1),94.8,,,,High Clamp Ideal % of Applied V (Output #1)
+Solver Clamp High Target Tolerance (Output #1),0.15,,,,High Clamp Target Tolerance % of Applied V (Output #1)
+Solver Clamp High Pass/Fail Tolerance (Output #1),0.5,,,,High Clamp Pass/Fail Tolerance % of Applied V (Output #1)
+Solver Clamp High Initial Guess (Output #1),950,,,,Initial Solver Setting for Clamp High Integer Value (0-1023) (Output #1)
+Solver Clamp Step (Output #1),0.104,,,,Known Melexis Clamp Step (%/count) (Output #1)
+Solver Index 1 Ideal Value (Output #2),9.9,,,,Ideal Output at Index Location 1 in % of Applied V (Output #2)
+Solver Index 1 Ideal Location (Output #2),0,,,,Ideal Location of Index 1 in ° from pedal zero (Output #2)
+Solver Index 1 Target Tolerance (Output #2),0.2,,,,Index 1 Output Target Tolerance in % of Applied (Output #2)
+Solver Index 1 Pass/Fail Tolerance (Output #2),0.3,,,,Index 1 Output Pass/Fail Tolerance in % of Applied (Output #2)
+Solver Index 2 Ideal Value (Output #2),45.19,,,,Ideal Output at Index Location 2 in % of Applied V (Output #2)
+Solver Index 2 Ideal Location (Output #2),15.1,,,,Ideal Location of Index 2 in ° from pedal zero (Output #2)
+Solver Index 2 Target Tolerance (Output #2),0.5,,,,Index 2 Output Target Tolerance in % of Applied (Output #2)
+Solver Index 2 Pass/Fail Tolerance (Output #2),0.75,,,,Index 2 Output Pass/Fail Tolerance in % of Applied (Output #2)
+Solver Filter Setting (Output #2),15,,,,"MLX Filter Setting, 0-15"
+Solver Invert Slope Setting (Output #2),0,,,,"MLX Invert Slope Setting, 0 or 1"
+Solver Mode Setting (Output #2),3,,,,"Mode Setting, 0-3"
+Solver FaultLevel Setting (Output #2),0,,,,"FaultLevel Setting, 0 or 1"
+Solver Maximum Offset Drift Setting (Output #2),14,,,,Maximum Allowable Offset Drift Setting in MLX IC
+Solver AGND Setting (Output #2),,450,390,,AGND Setting Range in MLX IC
+Solver Oscillator Adjust Setting (Output #2),7,,,,Correct Oscillator Adjust Setting in MLX IC
+Solver Capacitor Frequency Adjust Setting (Output #2),1,,,,Correct Capacitor Frequency Adjust Setting in MLX IC
+Solver DAC Frequency Adjust Setting (Output #2),0,,,,Correct DAC Frequency Adjust Setting in MLX IC
+Solver Slow Setting (Output #2),0,,,,Correct Slow Setting in MLX IC
+Solver Initial Offset (Output #2),910,,,,Initial Solver Setting for Offset Integer Value (0-1023) (Output #2)
+Higher Rough Gain Higher Fine Gain (Output #2),512,,,,Higher Rough Gain Higher Fine Gain (Output #2)
+Higher Rough Gain Lower Fine Gain (Output #2),0,,,,Higher Rough Gain Lower Fine Gain (Output #2)
+Lower Rough Gain Higher Fine Gain (Output #2),1023,,,,Lower Rough Gain Higher Fine Gain (Output #2)
+Lower Rough Gain Lower Fine Gain (Output #2),768,,,,Lower Rough Gain Lower Fine Gain (Output #2)
+Solver RG Min (Output #2),10,,,,Minimum Allowable Rough Gain Integer Value (0-15) (Output #2)
+Solver RG Max (Output #2),11,,,,Maximum Allowable Rough Gain Integer Value (0-15) (Output #2)
+Solver OffsetStep (Output #2),-0.1028,,,,Known Melexis Offset Step (%/count) (Output #2)
+Solver Programming Test Ratio 1 (Output #2),1.005,,,,Programming Test Ratio 1: Ratio of First Solver Test Gain to the Calculated Gain (Output #2)
+Solver Programming Test Ratio 2 (Output #2),1,,,,Programming Test Ratio 2: Ratio of Second Solver Test Gain to the Calculated Gain (Output #2)
+Solver Programming Test Ratio 3 (Output #2),0.995,,,,Programming Test Ratio 3: Ratio of Third Solver Test Gain to the Calculated Gain (Output #2)
+Solver Clamp Low Ideal (Output #2),9.16,,,,Low Clamp Ideal % of Applied V (Output #2)
+Solver Clamp Low Target Tolerance (Output #2),0.25,,,,Low Clamp Target Tolerance % of Applied V (Output #2)
+Solver Clamp Low Pass/Fail Tolerance (Output #2),0.4,,,,Low Clamp Pass/Fail Tolerance % of Applied V (Output #2)
+Solver Clamp Low Initial Guess (Output #2),90,,,,Initial Solver Setting for Clamp Low Integer Value (0-1023) (Output #2)
+Solver Clamp High (Output #2),47.2,,,,High Clamp Ideal % of Applied V (Output #2)
+Solver Clamp High Target Tolerance (Output #2),0.15,,,,High Clamp Target Tolerance % of Applied V (Output #2)
+Solver Clamp High Pass/Fail Tolerance (Output #2),0.5,,,,High Clamp Pass/Fail Tolerance % of Applied V (Output #2)
+Solver Clamp High Initial Guess (Output #2),470,,,,Initial Solver Setting for Clamp High Integer Value (0-1023) (Output #2)
+Solver Clamp Step (Output #2),0.104,,,,Known Melexis Clamp Step (%/count) (Output #2)
+MACHINE PARAMETERS:,Value,,,,Description
+Parameter File Name,705-99-190.csv,,,,Parameter File Name
+Parameter File Revision,3.6.0,,,,Parameter File Revision
+BOM Number,0,,,,Bill of Materials Number
+Station Code,3,,,,"1 = Program; 2 = Scan, 3 = Program & Scan"
+Series ID,705,,,,Customer Series Number
+PLC Control,0,,,,0 = No PLC; 1 = DDE PLC Communication; 2 = TTL PLC Communication
+Rising Point Target,0.45,,,,Rising Point Target for KD calculations
+Load Location,12,,,,Location of Scanner Drive Arm for Part Load/Unload in ° from Encoder zero
+PreScan Start,13,,,,Location to start looking for Pedal At Rest Location in ° from Encoder zero
+PreScan Stop,18,,,,Location to stop looking for Pedal At Rest Location in ° from Encoder zero
+Offset For Start Scan,0.3,,,,Distance before found Pedal Zero Location to start acquiring Scan data in °
+Scan Length,18.8,,,,Distance to scan in ° (including Offset For Start Scan)
+Over Travel,0.7,,,,Distance beyond ScanEnd to scan in °
+Count Per Trigger,2,,,,Number of counts per Trigger to acquire data
+Gear Ratio,-100,,,,Gear Ratio of all gearing in drive system
+Encoder Resolution,36000,,,,9000 Line Encoder with quadrature
+Pedal Zero Location Force,1,,,,Force representing first data point after contacting pedal face
+Force Knee Transition Slope,10,,,,Force Knee Transition Slope in N/°
+Force Knee Transition Window,1,,,,Force Knee Transition Window in °
+Force Knee Transition Percentage,80,,,,Percentage of points in Force Knee Transition Window Length that must be greater than Force Knee Transition Slope
+Microgradient Interval,20,,,,Microgradient Interval value (0.4 degrees)
+Microgradient Increment,5,,,,Microgradient Increment value (0.1 degrees)
+PreScan Velocity,1,,,,PreScan Velocity in rev/sec
+PreScan Acceleration,1,,,,PreScan Acceleration in rev/sec/sec
+Scan Velocity,0.05,,,,Scan Velocity in rev/sec
+Scan Acceleration,0.075,,,,Scan Acceleration in rev/sec/sec
+Slow Scan Velocity,0.008,,,,Slow Scan Velocity in rev/sec
+Slow Scan Acceleration,0.008,,,,Slow Scan Acceleration in rev/sec/sec
+Programming Velocity,1,,,,Programming Velocity in rev/sec
+Programming Acceleration,2,,,,Programming Acceleration in rev/sec/sec
+Graph Zero Offset,0,,,,Distance between Encoder 0° and Datum 0° on part
+Current Part Count,150,,,,# of parts for hourly yield basis
+Green Yield Percentage,98,,,,Percentage above which yield is displayed in green
+Yellow Yield Percentage,95,,,,Percentage above which yield is displayed in yellow
+X-Axis Low Value,-1,,,,X-Axis Start Loaction
+X-Axis High Value,20,,,,X-Axis Stop Location
+Channel One Filter,4,,,,Channel 1 Filter (DCX/MMC = 2 - Toyota - 3)
+Channel Two Filter,4,,,,Channel 2 Filter (DCX/MMC = 2 - Toyota - 3)
+Channel Three Filter,1,,,,Channel 3 Filter (Straight-Thru Path for Programming)
+Channel Four Filter,1,,,,Channel 4 Filter (Straight-Thru Path for Programming)
+Home Block Offset,15.7,,,,HomeBlockOffset - Position = Pedal Angle with respect to Datum A
+VRef Mode,1,,,,VRef Mode (0 = Reference IC; 1 = SW Controlled Vref)
+Maximum Force Reading,50,,,,Maximum Force Reading from the SC2000 in LBF
+INI File,705 TYF AP,,,,INI File name
+DefOSYS1,-128,-64,,,DefOSYS1
+DefOSYS2,-64,-64,,,DefOSYS2
+DefOSYS3,-64,-64,,,DefOSYS3
+DefOSYS5,64,64,,,DefOSYS5
+DefOSYS6,64,64,,,DefOSYS6
+DefOSYS7,64,64,,,DefOSYS7
+DefSSYS1,0.824,0.824,,,DefSSYS1
+DefSSYS2,0.88,0.88,,,DefSSYS2
+DefSSYS3,0.936,0.936,,,DefSSYS3
+DefSSYS5,1.07,1.07,,,DefSSYS5
+DefSSYS6,1.07,1.07,,,DefSSYS6
+DefSSYS7,1.07,1.07,,,DefSSYS7
+COMMENTS:,,,,,
+Date,Revision,Initials,Descriptions,,
+10/5/2023,3.6.0,ANM,Initial release of 705-99-190 (90293 Version).,,
